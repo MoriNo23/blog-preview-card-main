@@ -81,6 +81,9 @@ body {
   align-items: center;
   gap: 1em;
 }
+.card_container figure > img {
+  height: 2em;
+}
 @media (min-width: 1000px) {
   .container {
     align-self: center;
